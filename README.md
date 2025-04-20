@@ -2,7 +2,6 @@
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
-
 # ALGORITHM:
 STEP 1:Read the given Data.
 STEP 2:Clean the Data Set using Data Cleaning Process.
@@ -24,6 +23,12 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![Ds exp 4 ipynb - Colab_page-0001](https://github.com/user-attachments/assets/badc3c65-5478-4d29-a4f6-b7f55e83f099)
+![Ds exp 4 ipynb - Colab_page-0002](https://github.com/user-attachments/assets/3d9e1d88-a3d4-405d-9dbf-11e1aaca0a28)
+![Ds exp 4 ipynb - Colab_page-0003](https://github.com/user-attachments/assets/5e6eae16-66b5-4bb1-8b57-3076666b0da4)
+![Ds exp 4 ipynb - Colab_page-0004](https://github.com/user-attachments/assets/2efb7023-0b36-4ec2-95eb-d0e71daf1876)
+![Ds exp 4 ipynb - Colab_page-0005](https://github.com/user-attachments/assets/7a52dd65-c680-44ca-b93c-cb21b105a162)
+![Ds exp 4 ipynb - Colab_page-0006](https://github.com/user-attachments/assets/78f1af03-33ea-4f91-b884-4c396767deee)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+         Thus we have read and performed  Feature Scaling and Feature Selection process and save the data to a file.
